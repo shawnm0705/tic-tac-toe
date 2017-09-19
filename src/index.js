@@ -152,7 +152,6 @@ class Game extends React.Component {
     });
     let status;
     let winSquares = [];
-    let winner = '';
     if (win) {
       winSquares = win.winSquares;
       status = 'Winner: ' + win.winner;
