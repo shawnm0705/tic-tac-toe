@@ -1,5 +1,7 @@
 # Tic-Tac-Toe
 
+This project is deployed in GithubPage at [Here](https://shawnm0705.github.io/tic-tac-toe/)
+
 This project is my implementation of [Tutorial: Intro To React](https://facebook.github.io/react/tutorial/tutorial.html) including the following features:
 
 - Display the move locations in the format "(1, 3)" instead of "6".
